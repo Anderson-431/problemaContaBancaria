@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\ANDERSON\Desktop\POO REVISÃ0\CONTA_BANCARIA\.metadata\.plugins\org.eclipse.jdt.core
+113558702.index
+3232525406.index
